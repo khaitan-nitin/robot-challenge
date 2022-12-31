@@ -1,0 +1,6 @@
+PLACE  0 , 0 , EAST 
+ LEFT 
+ LEFT 
+ RIGHT 
+ MOVE 
+ REPORT 
